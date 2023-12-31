@@ -3,6 +3,7 @@
 Blindseer is a mobile application designed to assist visually impaired individuals with navigating their surroundings. The user wears a camera attached to an article of clothing, and the application utilizes the camera feed to provide auditory descriptions of significant events, enhancing the user's awareness of their environment. This innovative solution aims to empower blind people by converting visual information into spoken descriptions, offering them greater independence and a safer navigation experience in their surroundings.
 
 [Project Video](https://studio.youtube.com/video/1COTQSR1okU/edit)
+
 Created by 1A students at the University of Waterloo.
 
 
