@@ -4,7 +4,7 @@ Blindseer is a mobile application designed to assist visually impaired individua
 
 Created by 1A students at the University of Waterloo.
 
-[Project Video](https://studio.youtube.com/video/1COTQSR1okU/edit)
+[Project Video](https://www.youtube.com/watch?v=1COTQSR1okU)
 
 
 <!--
